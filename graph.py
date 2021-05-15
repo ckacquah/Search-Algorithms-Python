@@ -1,8 +1,3 @@
-# Author: Acquah Cyril Kofi
-# Index N0: 10686868
-# Date: 2/14/2021
-# Copyright (C) 2021
-
 import tkinter
 
 class Graph:
